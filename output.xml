@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<planes>
+    <plane>
+        <model>737-800</model>
+        <manufacturer>Boeing</manufacturer>
+        <year>1997</year>
+    </plane>
+    <plane>
+        <model>A 380</model>
+        <manufacturer>Airbus</manufacturer>
+        <year>2005</year>
+    </plane>
+</planes>
